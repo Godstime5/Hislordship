@@ -206,7 +206,7 @@ Message <b>: {}</b>"""
     CAPTION = """
 📂 <b>File Name</b>: <code>{file_name}</code> 
 
-❤️‍🔥 </b>𝗝𝗼𝗶𝗻 : @lordshipmovies</b>  
+❤️‍🔥 </b>𝗝𝗼𝗶𝗻 : @lordship_series</b>  
 """
 
     IMDB_TEMPLATE_TXT = """
@@ -249,4 +249,4 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 <b><u>𝖡𝗈𝗍 𝖱𝖾𝗌𝗍𝖺𝗋𝗍𝖾𝖽 ✅</u></b>"""
 
     LOGO = """
-PIRO BOTS"""
+Hislordship"""
